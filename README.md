@@ -5,7 +5,7 @@ The instruction of code files for research article "Resting-state global brain a
 
 Edited by Feng Han in Multimodal and Computational Neuroimaging Laborary (MCNL) at Pennsylvania State University.
 
-The file included 15 Matlab scripts (.m) corresponding to all the figures in our manuscript.
+The file included Matlab scripts (.m) corresponding to all the figures in our manuscript.
 
 
 
@@ -42,4 +42,4 @@ Please directly run all fig_*.m files.
 
 Please send feedback to Feng Han (fenghan1202@gmail.com).
 
-(10/01/2022)
+(09/10/2023)
